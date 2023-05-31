@@ -18,9 +18,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ![](./src/images/screenshot-qrcode.png)
 
-### Links
+### Live Site
 
-- Live Site URL: []()
+- Live Site URL: [GitHub Pages](https://gabriel-h502.github.io/component-qrcode/)
 
 ### Built with
 

@@ -18,9 +18,9 @@ Essa é minha solução para o [desafio do componente QR code do Frontend Mentor
 
 ![](./src/images/screenshot-qrcode.png)
 
-### Links
+### Live Site
 
-- Live Site URL: []()
+- Live Site URL: [GitHub Pages](https://gabriel-h502.github.io/component-qrcode/)
 
 ### Feito Com
 
